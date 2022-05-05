@@ -1,0 +1,25 @@
+	requirements.txt
+
+01)	Introduction to the Azure Machine Learning SDK
+	https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/
+
+02)	Work with Data in Azure Machine Learning
+	https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/
+
+03)	Work with Compute in Azure Machine Learning
+	https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/
+
+04)	Orchestrate machine learning with pipelines
+	https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/
+	
+05)	Deploy real-time machine learning services with Azure Machine Learning
+	https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/
+	
+06)	Monitor models with Azure Machine Learning
+	https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/
+	
+07)	Use automated machine learning in Azure Machine Learning
+	https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/
+	
+08)	Create a classification model with Azure Machine Learning designer
+	https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/
